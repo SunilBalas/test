@@ -1,5 +1,7 @@
 def expo(x,y):
     return x**y
 
-result = expo(2,5)
+a = int(input())
+b = int(input())
+result = expo(a,b)
 print(result)
