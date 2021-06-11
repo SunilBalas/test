@@ -1,2 +1,2 @@
 # test
-test repo
+My first github repository while learning git
